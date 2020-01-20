@@ -1,4 +1,5 @@
-lass Solution {
+//Question 1043
+class Solution {
     public int longestCommonSubsequence(String text1, String text2) {
         //change string to int array 
         char[] t1 = text1.toCharArray();
